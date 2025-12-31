@@ -26,7 +26,7 @@
 ## 📫 Connect with Me
 - 📧 **Email:** daksh80002@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/dakshX](https://www.linkedin.com/in/dakshX)  
-- 💻 **GitHub:** [github.com/dakshjain2005](https://github.com/dakshjain2005)  
+- 💻 **GitHub:** [github.com/daksh-glu](https://github.com/daksh-glu)  
 
 ---
 
