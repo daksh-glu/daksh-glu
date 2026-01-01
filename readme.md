@@ -19,6 +19,7 @@
 | **TermiSnake** | Classic snake game in terminal | C++ |
 | **TermiXO** | Tic-Tac-Toe in terminal | C++ |
 | **Pong (Raylib)** | Fun pong game with animations | C++, Raylib |
+| **ToDo List App** | Android app using Java | Java |
 | *(More coming soon…)* | — | — |
 
 ---
