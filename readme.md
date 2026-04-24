@@ -25,34 +25,14 @@
 ---
 
 ## 📬 Connect with Me
-
-<p align="left">
-  <a href="mailto:daksh80002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-daksh80002%40gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/dakshX">
-    <img src="https://img.shields.io/badge/LinkedIn-dakshX-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  
-  <a href="https://github.com/daksh-glu">
-    <img src="https://img.shields.io/badge/GitHub-daksh--glu-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+- 📧 **Email:** daksh80002@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/dakshX](https://www.linkedin.com/in/dakshX)  
 
 ---
 
 ## 🧠 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/daksh_glu/">
-    <img src="https://img.shields.io/badge/LeetCode-daksh__glu-orange?style=for-the-badge&logo=leetcode">
-  </a>
-  
-  <a href="https://www.geeksforgeeks.org/profile/daksh_glu">
-    <img src="https://img.shields.io/badge/GFG-daksh__glu-darkgreen?style=for-the-badge&logo=geeksforgeeks">
-  </a>
-</p>
+- 💻 **LeetCode:** [leetcode.com/u/daksh_glu](https://leetcode.com/u/daksh_glu/)  
+- 📊 **GFG:** [geeksforgeeks.org/profile/daksh_glu](https://www.geeksforgeeks.org/profile/daksh_glu)  
 
 ---
 
