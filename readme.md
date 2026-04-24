@@ -1,8 +1,8 @@
-# Hi there, I'm Daksh Jain 👋
+## Hi there, I'm Daksh Jain 👋
 
-🎓 **B.Tech CSE(AI)** @ Poornima College of Engineering (2027)  
-💻 Passionate about **C++**, **Game Development**, and **Web Projects**  
-🌱 Currently building fun **terminal & raylib games** and enhancing my **portfolio**  
+🎓 B.Tech CSE (AI) @ Poornima College of Engineering (2027)  
+💻 Interested in C++, Problem Solving, and Software Development  
+📈 Actively improving my DSA skills and building projects  
 
 ---
 
