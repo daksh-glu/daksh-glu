@@ -8,7 +8,7 @@
 
 ## 🚀 Skills
 
-- **Languages:** C, C++, Python, HTML, CSS, JavaScript  
+- **Languages:** C, C++, Python
 - **Tools:** Git, GitHub  
 - **Core Concepts:** Data Structures & Algorithms (DSA), Problem Solving  
 
