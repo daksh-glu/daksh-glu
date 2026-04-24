@@ -7,9 +7,10 @@
 ---
 
 ## 🚀 Skills
-- **Languages:** C (Basic), C++, HTML, CSS, JavaScript  
-- **Tools & Frameworks:** Raylib, Git, VS Code  
-- **Other Interests:** Game logic, animations, UI/UX  
+
+- **Languages:** C, C++, Python, HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub  
+- **Core Concepts:** Data Structures & Algorithms (DSA), Problem Solving  
 
 ---
 
